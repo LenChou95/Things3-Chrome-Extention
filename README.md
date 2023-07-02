@@ -27,7 +27,7 @@ The Things3 Chrome Extension is a simple and convenient tool that allows you to 
 
 ## Support
 
-If you encounter any issues or have any questions or suggestions, please [open an issue](https://github.com/your-repo-url/issues) on the GitHub repository.
+If you encounter any issues or have any questions or suggestions, please [open an issue](https://github.com/ericecchou/Things3-Chrome-Extention/issues) on the GitHub repository.
 
 ---
 
@@ -60,4 +60,4 @@ Things3 Chrome 扩展插件是一个简单、方便的工具，可以让您直�
 
 ## 技术支持
 
-如果您遇到任何问题，或有任何问题或建议，请在 GitHub 存储库上[提交问题](https://github.com/your-repo-url/issues)。
+如果您遇到任何问题，或有任何问题或建议，请在 GitHub 存储库上[提交问题](https://github.com/ericecchou/Things3-Chrome-Extention/issues)。
