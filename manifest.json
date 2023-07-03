@@ -1,9 +1,10 @@
 {
     "manifest_version": 3,
     "name": "Things3 for Chrome",
-    "version": "1.0",
-    "description": "A Chrome extension for adding URLs to Things3 tasks",
+    "version": "1.1",
+    "description": "__MSG_description__",
     "default_locale": "en",
+    "homepage_url": "https://github.com/ericecchou/Things3-Chrome-Extention",
     "icons": {
         "16": "images/icon16.png",
         "48": "images/icon48.png",
