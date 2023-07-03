@@ -1,5 +1,8 @@
 {
     "addToThings3": {
         "message": "Añadir a Things3"
+    },
+    "description": {
+        "message": "Una extensión de Chrome para agregar URLs a las tareas de Things3"
     }
 }
