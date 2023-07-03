@@ -1,5 +1,8 @@
 {
     "addToThings3": {
         "message": "添加至 Things3"
+    },
+    "description": {
+        "message": "一个可以将网页链接和标题快速保存为 Things3 任务的 Chrome 扩展插件"
     }
 }
