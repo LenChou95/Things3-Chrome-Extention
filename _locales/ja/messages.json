@@ -1,5 +1,8 @@
 {
     "addToThings3": {
         "message": "Things3に追加"
+    },
+    "description": {
+        "message": "URLをThings3のタスクに追加するためのChrome拡張機能"
     }
 }
