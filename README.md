@@ -9,6 +9,11 @@ The Things3 Chrome Extension is a simple and convenient tool that allows you to 
 - Save tasks to Things3 with ease
 - Automatically populate task name and note with current page data
 
+## Update Log
+- v1.1: Adjusted extension logic, directly using URL Schemes to invoke the global Quick Entry widget.
+- v1.0: Quickly added tasks from Chrome by invoking URL Schemes. Please note that Things3 does not support adding non-existing projects and tags through URL Schemes. So, please add the existing project names and tags in Things3 via the settings page before using. 
+
+
 ## Installation
 
 1. Clone or download this repository.
@@ -42,6 +47,12 @@ Things3 Chrome 扩展插件是一个简单、方便的工具，可以让您直�
 - 轻松保存任务到 Things3
 - 自动使用当前页面数据填充任务名称和备注
 
+## 更新记录
+- v1.1：调整插件逻辑，直接使用 URL Schemes 调用全局快速录入控件，使用 Things3 自带 UI 创建任务，无需再设置项目名称与标签信息。
+- v1.0：调用 URL Schemes 快速从 Chrome 添加任务。由于 Things3 不支持通过 URL Schemes 添加不存在的项目和标签。所以在使用前请通过设置页面添加 Things3 中已有的项目名称与标签。
+
+
+
 ## 安装
 
 1. 克隆或下载此存储库。
@@ -55,8 +66,6 @@ Things3 Chrome 扩展插件是一个简单、方便的工具，可以让您直�
 1. 点击 Chrome 工具栏中的扩展图标，或右键单击网页并选择“保存到 Things3”以打开输入对话框。
 2. 在相应的输入框中输入任务名称和备注。
 3. 单击“保存”按钮将任务添加到 Things3。
-
-**注意：** 请注意，Things3 不支持通过 URL Schemes 添加不存在的项目和标签。
 
 ## 技术支持
 
