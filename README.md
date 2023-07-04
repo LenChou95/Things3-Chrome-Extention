@@ -1,3 +1,7 @@
+
+[English](#Features) ｜ [中文](#功能)
+
+
 # Things3 Chrome Extension
 
 ![Extension Icon](images/icon128.png)
